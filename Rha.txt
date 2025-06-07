@@ -1,0 +1,7 @@
+git branch -D (이름) 			//로컬 브랜치 삭제
+git push origin --delete (이름)	//깃헙 브랜치 삭제
+
+git checkout -b (이름) 			//로컬 브랜치 추가 후 이동
+git push -u origin (이름)		//깃헙 브랜치 추가
+
+git push origin (이름)			// 로컬 -> 깃헙
